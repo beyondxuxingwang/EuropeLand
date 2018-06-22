@@ -1,0 +1,133 @@
+
+.banner{
+    width: 100%;
+    height: 390px;
+    background: #151d30;
+}
+.about{
+    margin-top: 70px;
+}
+.about h1{
+    text-align: center;
+    color: #0c2e55;
+    font-size: 34px;
+    font-weight: 400;
+}
+.about h2{
+    text-align: center;
+    color: #0c2e55;
+    font-size: 26px;
+    font-weight: 100;
+}
+.about ul {
+    margin-top: 90px;
+}
+
+.about-ul li {
+    width: 25%;
+    float: left;
+}
+.about p{
+    margin-top: 10px;
+    color: #0c2e55;
+}
+.about  .about-p-one{
+  
+    font-size: 52px;
+    text-align: center;
+}
+.about .about-p-two{
+    
+    font-size: 12px;
+    text-align: center;
+}
+.about .about-p-three{
+    font-size: 14px;
+    text-align: center;
+}
+.about .about-detail{
+    text-align: center;
+    font-size: 16px;
+    line-height: 30px;
+    margin-top: 70px;
+}
+.about .about-itemimg{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.about .itemimg-left{
+    width: 50%;
+    height: 421px;
+    float: left;
+    background: red;
+}
+.about .itemimg-right{
+    width: 50%;
+    height: 421px;
+    float: left;
+    background: yellowgreen;
+}
+.service-ul li{
+    width: 25%;
+    height: 150px;  
+    float: left;
+    position: relative;
+}
+.service-ul li img{
+    position: absolute;
+    left:50%;
+    top:50%;
+    width: 126px;
+    height: 94px;
+    margin-left:-63px;
+    margin-top:-47px;
+}
+ 
+.about .service-p-one{
+    font-size: 22px;
+    text-align: center;
+}
+.about .service-p-two{
+    font-size: 14px; 
+    text-align: center;
+    color: #999;
+}
+.service-ul-two li{
+    float: left;
+    width: 25%;
+    
+}
+.about-banner{
+    /* display: table-cell; */
+    width: 100%;
+    height: 440px;
+    background: #2c3d4d;
+    margin-top: 100px;
+    vertical-align: middle;
+    padding-top: 160px;
+    margin-bottom:  70px;
+}
+.about-banner p{
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    line-height: 70px;
+}
+
+.about .advantage-ul{
+    padding-bottom: 70px;
+}
+.about .advantage-ul li{
+    width: 25%;
+    float: left;
+}
+.about .advantage-p-one{
+    color: #01b3de;
+    font-size: 36px;
+    text-align: center;
+}
+.about .advantage-p-two{
+    font-size: 14px; 
+    text-align: center;
+    color: #999;
+}
